@@ -9,3 +9,5 @@ db.sqlite3
 /share
 /djangogirls
 /lib64
+pyvenv.cfg
+/bin
