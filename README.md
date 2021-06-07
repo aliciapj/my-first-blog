@@ -1,4 +1,4 @@
-# Bienvenido a tu primer blog con django
+# Bienvenida a tu primer blog con django
 
 Pasos a seguir:
 1. Haz un fork del proyecto
